@@ -6,7 +6,7 @@
 I am a Ph.D. student in the [Graduate School of Knowledge Service Engineering](https://kse.kaist.ac.kr/) at KAIST, and currently part of [KIRC](http://kirc.kaist.ac.kr/) (Knowledge Innovation Research Center).
 
 - 🔬 Currently working on AI for Healthcare
-- 👀 Interested in AI for Healthcare, Interpretable AI, Human-AI Interaction, and DL-based systems
+- 👀 Interested in Representation Learning, Interpretable AI, Human-AI Interaction, and DL-based systems
 - 🌱 Always a student
 
 Be Chill. Be Patient.
